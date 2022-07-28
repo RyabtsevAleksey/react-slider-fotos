@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(159, 220, 244);
+  padding-top: 150px;
+}
+
+.main {
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+.carousel-image {
+  width: 420px;
+  height: 290px;
+  border-radius: 5px;
+}
